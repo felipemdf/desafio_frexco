@@ -16,7 +16,9 @@
 
 # Acesse a pasta do projeto no terminal/cmd 
  $ cd ./desafio_frexco/
-
+ 
+# Acesse a url no seu navegador
+  <http://localhost:8080>
 ```
 
 ## Endpoints
